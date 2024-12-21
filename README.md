@@ -69,5 +69,3 @@ Results of the queries and visualizations will be generated and displayed using 
 ## Conclusion
 This project demonstrates how to combine SQL and Python for comprehensive data analysis in the e-commerce domain. By answering various business questions, you can gain valuable insights to make informed decisions.
 
-## Acknowledgements
-We would like to thank [Your Name] for providing the dataset and guiding the project.
